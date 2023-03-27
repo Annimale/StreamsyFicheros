@@ -26,8 +26,9 @@ public class obtenerListaDirectoriosArchivos {
                 System.out.println("Es un directorio");
             }else{
                 System.out.println("Es un archivo");
+                
             }
-            
+            System.out.println("\n");
         }
                 System.out.println("--------------");
                 
